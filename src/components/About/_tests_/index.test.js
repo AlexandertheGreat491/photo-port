@@ -8,3 +8,16 @@ import About from '..';
 
 // calls the cleanup() function using the afterEach global function from Jest
 afterEach(cleanup);
+
+// describe function declares the component being tested
+describe('About component', () => {
+    //renders About test
+
+    // first test
+    it('renders', () => {
+        render(<About />);
+      });
+    
+
+    // second test
+  })
