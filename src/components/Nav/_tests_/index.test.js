@@ -20,3 +20,12 @@ describe("Nav component", () => {
     expect(asFragment()).toMatchSnapshot();
   });
 });
+
+// describe function declares that the links are visible
+describe('links are visible', () => {
+    it('inserts text into the links', () => {
+        // Arrange
+
+        // Assert
+    })
+})
