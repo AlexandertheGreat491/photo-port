@@ -1,13 +1,17 @@
-import React from 'react';
+import React from "react";
 
-
-function Gallery() {
-    return(
-        <section>
-            <h1>NAME</h1>
-            <p>DESCRIPTION</p>
-        </section>
-    );
+function Gallery(props) {
+  const currentCategory = {
+    name: "commercial",
+    description:
+      "Photos of grocery stores, food trucks, and other commercial products",
+  };
+  return (
+    <section>
+      <h1>{currentCategory.name}</h1>
+      <p>{currentCategory.name}</p>
+    </section>
+  );
 }
 
 export default Gallery;
