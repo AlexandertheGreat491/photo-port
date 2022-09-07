@@ -65,6 +65,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 Please view this screenshot to get an idea for how the app is utilized.
 
+![app-screenshot](https://user-images.githubusercontent.com/64184203/188948432-f4b37aae-4c82-446c-943f-5ee9ae54a5d6.jpg)
+
+
 ## Credits
 
 Collaborators:
